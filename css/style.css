@@ -1,0 +1,66 @@
+.nombre-empresa {
+  margin-top: -10px;
+}
+
+.navbar-brand a {
+  text-decoration: none;
+  color: #3F4E6A;
+}
+
+.navbar-nav {
+  margin: 0;
+}
+
+.categorias {
+  border-bottom: solid #e7e7e7 1px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.titulo-menu {
+  color: #3F4E6A;
+}
+
+p {
+	padding: 10px 15px;
+	text-align: justify;
+}
+
+section {
+	position: relative;
+	margin: 15px;
+  border: 3px dotted black;
+  background-color: #FFF2DA;
+}
+
+h2 {
+	margin: 0;
+	padding: 0;
+}
+
+.titlePosition {
+	padding: 2px 30px 2px 30px;
+	border-bottom: 3px dotted black;
+}
+
+#title1 {
+	background-color: #D59898;
+}
+
+#title2 {
+	background-color: #C14543;
+}
+
+#title3 {
+	background-color: #E5D198;
+}
+
+.textPosition {
+	padding-top: 20px;
+}
+
+
+@media (min-width: 1200px) {
+  
+  }
+}
